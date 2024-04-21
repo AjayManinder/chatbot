@@ -1,0 +1,6 @@
+Flask
+transformers
+flask-cors
+torch 
+torchvision
+gunicorn
